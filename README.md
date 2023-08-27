@@ -1,5 +1,11 @@
 # ClimateChangeBoardGame
 
+## Links
+
+- Repository URL: https://github.com/nashetty/ClimateChangeBoardGame
+- Game demo URL: http://replit.com/@NadaShetty/Climate-Change-Street-Safety-Trivia-Board-Game-2-player
+##
+
 ![Intro to Java Challenge](https://github.com/nashetty/ClimateChangeBoardGame/assets/110870202/ad66ed88-4065-48c2-966c-c75384d79e53)
 ![Intro to Java Challenge (1)](https://github.com/nashetty/ClimateChangeBoardGame/assets/110870202/50810f9b-c05b-45fb-99c6-1e5a82728b95)
 ![Intro to Java Challenge (2)](https://github.com/nashetty/ClimateChangeBoardGame/assets/110870202/995b27b8-15c0-45ac-a503-18c2bcc0022b)
